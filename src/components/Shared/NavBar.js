@@ -115,7 +115,7 @@ const NavBar = () => {
                     <a href="#ori-testimonial-4">Testimonial</a>
                   </li>
                   <li>
-                    <a href="#ori-blog-4">Blogs</a>
+                    <a href="#ori-blog-4">Blog</a>
                   </li>
                 </ul>
               </nav>
